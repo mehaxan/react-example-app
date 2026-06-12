@@ -9,9 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@informatiq/geologiq-react": "^1.42.4",
+    "inversify": "^7.11.0",
     "next": "16.1.6",
-    "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "rxjs": "^7.8.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
